@@ -31,5 +31,6 @@ Backend & embedded systems engineer with 20+ years of experience, currently tran
 
 #### Connect
 
-- Portfolio: [kivancgnlp.github.io](https://kivancgnlp.github.io/)
-- LinkedIn: [www.linkedin.com/in/kivanc-gunalp/](https://www.linkedin.com/in/kivanc-gunalp/)
+- Portfolio (live demos): [kivancgnlp.github.io](https://kivancgnlp.github.io/)
+- Writing: [medium.com/@kivancgunalp](https://medium.com/@kivancgunalp/)
+- LinkedIn: [linkedin.com/in/kivanc-gunalp](https://www.linkedin.com/in/kivanc-gunalp/)
