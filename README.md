@@ -23,7 +23,7 @@ Backend & embedded systems engineer with 20+ years of experience, currently tran
 - [MacOS_SmartCharge_Tuner](https://github.com/kivancgnlp/MacOS_SmartCharge_Tuner) — macOS client for fine-tuning smart charge control
 - [STM32-HAL-CPP-Libraries](https://github.com/kivancgnlp/STM32-HAL-CPP-Libraries) — C++ hardware abstraction layer libraries for STM32
 - [Xilinx-Bitfile-Commands-Reader](https://github.com/kivancgnlp/Xilinx-Bitfile-Commands-Reader) — Rust tool for inspecting configuration and commands in Xilinx bitfiles
-- [Rust_Lines_Of_Code_Counter](https://github.com/kivancgnlp/Rust_Lines_Of_Code_Counter) — LOC counter with an ncurses-based text GUI
+- [Rust_Lines_Of_Code_Counter](https://github.com/kivancgnlp/Rust_Lines_Of_Code_Counter) — LOC counter with language stats
 
 #### Tech stack
 
