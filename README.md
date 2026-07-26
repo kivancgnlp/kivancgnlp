@@ -16,7 +16,6 @@ Backend & embedded systems engineer with 20+ years of experience, currently tran
 
 - [rust-analyzer #22901](https://github.com/rust-lang/rust-analyzer/pull/22901) — Fix: strip leading asterisk decoration from block doc comments *(under review)*
 - [docs.rs #3416](https://github.com/rust-lang/docs.rs/pull/3416) — Improve 404 page for missing rustdoc resources *(under review)*
-- [trustfall #947](https://github.com/obi1kenobi/trustfall/pull/947) — Use `std::path::Path`/`PathBuf` instead of strings for path handling
 - [rustlings #2321](https://github.com/rust-lang/rustlings/pull/2321) — Added and tested File I/O exercises
 
 #### Selected projects
