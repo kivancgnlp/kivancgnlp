@@ -12,11 +12,17 @@ Backend & embedded systems engineer with 20+ years of experience, currently tran
 - Building embedded/systems tooling in Rust as I move from C++ into the Rust ecosystem full-time
 - Open to full-time remote roles in Rust systems programming, embedded software, or backend infrastructure
 
-#### Open source contributions
+#### Open source contributions (rust-lang)
 
-- [rust-analyzer #22901](https://github.com/rust-lang/rust-analyzer/pull/22901) — Fix: strip leading asterisk decoration from block doc comments *(under review)*
-- [docs.rs #3416](https://github.com/rust-lang/docs.rs/pull/3416) — Improve 404 page for missing rustdoc resources *(under review)*
-- [rustlings #2321](https://github.com/rust-lang/rustlings/pull/2321) — Added and tested File I/O exercises
+**Merged**
+
+- [rust-analyzer #22947](https://github.com/rust-lang/rust-analyzer/pull/22947) — Use E0057/E0061 (instead of E0107) for argument-count mismatch diagnostics *(merged Jul 2026)*
+- [docs.rs #3416](https://github.com/rust-lang/docs.rs/pull/3416) — Contextual 404 page for missing rustdoc resources, with recovery links (fixes #2568) *(merged Aug 2026)*
+
+**In progress**
+
+- [rust-analyzer #22901](https://github.com/rust-lang/rust-analyzer/pull/22901) — Strip leading asterisk decoration from block doc comments *(open)*
+- [rustlings #2321](https://github.com/rust-lang/rustlings/pull/2321) — File I/O exercises *(open, under review)*
 
 #### Selected projects
 
