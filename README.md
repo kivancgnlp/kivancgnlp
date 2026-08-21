@@ -8,17 +8,18 @@ Backend & embedded systems engineer with 20+ years of experience, currently tran
 
 #### Currently
 
-- Contributing to core Rust ecosystem projects (compiler tooling, docs infrastructure, learning tools)
+- Contributing to core Rust ecosystem projects (compiler tooling, docs infrastructure) and to the Logos decentralised technology stack
 - Building embedded/systems tooling in Rust as I move from C++ into the Rust ecosystem full-time
 - Open to full-time remote roles in Rust systems programming, embedded software, or backend infrastructure
 
-#### Open source contributions (rust-lang)
+#### Open source contributions
 
 **Merged**
 
 - [rust-analyzer #23147](https://github.com/rust-lang/rust-analyzer/pull/23147) — Emit E0600 for unary `!`/`-` when the type does not implement `Not`/`Neg` *(merged Aug 2026)*
 - [rust-analyzer #22947](https://github.com/rust-lang/rust-analyzer/pull/22947) — Use E0057/E0061 (instead of E0107) for argument-count mismatch diagnostics *(merged Jul 2026)*
 - [docs.rs #3416](https://github.com/rust-lang/docs.rs/pull/3416) — Contextual 404 page for missing rustdoc resources, with recovery links (fixes #2568) *(merged Aug 2026)*
+- [Overwatch #149](https://github.com/logos-co/Overwatch/pull/149) — Fix broken intra-doc links and misclassified README doctests in the Logos services framework *(merged Aug 2026)*
 
 **In progress**
 
