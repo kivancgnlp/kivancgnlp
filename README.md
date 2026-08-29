@@ -16,14 +16,11 @@ Backend & embedded systems engineer with 20+ years of experience, currently tran
 
 **Merged**
 
+- [rust-analyzer #22901](https://github.com/rust-lang/rust-analyzer/pull/22901) — Strip leading asterisk decoration from block doc comments *(merged Aug 2026)*
 - [rust-analyzer #23147](https://github.com/rust-lang/rust-analyzer/pull/23147) — Emit E0600 for unary `!`/`-` when the type does not implement `Not`/`Neg` *(merged Aug 2026)*
 - [rust-analyzer #22947](https://github.com/rust-lang/rust-analyzer/pull/22947) — Use E0057/E0061 (instead of E0107) for argument-count mismatch diagnostics *(merged Jul 2026)*
 - [docs.rs #3416](https://github.com/rust-lang/docs.rs/pull/3416) — Contextual 404 page for missing rustdoc resources, with recovery links (fixes #2568) *(merged Aug 2026)*
 - [Overwatch #149](https://github.com/logos-co/Overwatch/pull/149) — Fix broken intra-doc links and misclassified README doctests in the Logos services framework *(merged Aug 2026)*
-
-**In progress**
-
-- [rust-analyzer #22901](https://github.com/rust-lang/rust-analyzer/pull/22901) — Strip leading asterisk decoration from block doc comments *(open)*
 
 #### Selected projects
 
