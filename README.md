@@ -24,7 +24,7 @@ Backend & embedded systems engineer with 20+ years of experience, currently tran
 
 #### Selected projects
 
-- [ruggednova](https://github.com/kivancgnlp/ruggednova): Rust emulator for the Data General Nova family of 16-bit minicomputers, runs original 1969-1976 diagnostic paper tapes
+- [ruggednova](https://github.com/kivancgnlp/ruggednova): Rust emulator for the Data General Nova family of 16-bit minicomputers
 - [MacOS_SmartCharge_Tuner](https://github.com/kivancgnlp/MacOS_SmartCharge_Tuner): macOS client for fine-tuning smart charge control
 - [STM32-HAL-CPP-Libraries](https://github.com/kivancgnlp/STM32-HAL-CPP-Libraries): C++ hardware abstraction layer libraries for STM32
 - [Xilinx-Bitfile-Commands-Reader](https://github.com/kivancgnlp/Xilinx-Bitfile-Commands-Reader): Rust tool for inspecting configuration and commands in Xilinx bitfiles
